@@ -1,0 +1,7 @@
+{
+  "entryPoints": [
+  "./src/Funko-App/*.ts",
+  "./src/PE-103/*.ts"
+  ],
+  "out": "./docs"
+}
